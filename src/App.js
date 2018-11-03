@@ -3,8 +3,10 @@ import './App.css';
 import Titles from './components/Titles';
 import Form from './components/Form';
 import Weather from './components/Weather';
+import Particles from 'react-particles-js';
 
-const API_KEY = '"a02a82b9d206eb437f94d7023673b70';
+// const API_KEY = 'a02a82b9d206eb437f94d7023673b70';
+// const API_KEY = 'fa02a82b9d206eb437f94d7023673b70';
 
 class App extends React.Component {
     state = {
@@ -66,6 +68,7 @@ class App extends React.Component {
                         </div>
                     </div>
                 </div>
+                <Particles />
             </div>
         );
     }
