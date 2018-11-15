@@ -1,2 +1,2 @@
 # MyApp
-App about weather
+App about weather - check weather
