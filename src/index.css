@@ -13,3 +13,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.weather__info {
+  color: white;
+  width: 300px;
+  font-weight: 700;
+  margin: 20px;
+  padding: 10px;
+  width: 400px;
+}
+/*.weather__info {*/
+  /*background-color: white;*/
+  /*width: 300px;*/
+  /*font-weight: 700;*/
+  /*margin: 20px;*/
+  /*!*margin: 20px auto;*!*/
+  /*padding: 10px;*/
+  /*!*border-radius: 10%;*!*/
+  /*width: 400px;*/
+/*}*/
+.titles{
+  color: white;
+  margin-left: 20px;
+}
+.form {
+  margin-left: 20px;
+}
+.form input{
+  background-color: white;
+}
